@@ -151,6 +151,8 @@ Plug 'mhinz/vim-startify'
 Plug 'itchyny/vim-cursorword'
 
 Plug 'alvan/vim-closetag'
+" autocomplete brackets
+Plug 'Raimondi/delimitMate'
 
 call plug#end()
 
