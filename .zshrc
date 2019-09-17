@@ -7,6 +7,7 @@ alias zrc='vim ~/.zshrc'
 
 # ls
 alias ll='ls -lah'
+alias l='ls -lah'
 
 # proxy
 export http_proxy=

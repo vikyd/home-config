@@ -1,0 +1,13 @@
+{
+  "libs": [
+    "browser",
+    "ecmascript",
+    "jquery",
+    "vue",
+    "underscore"
+  ],
+  "plugins": {
+    "node": {},
+    "esmodules": {}
+  }
+}
