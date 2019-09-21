@@ -151,6 +151,8 @@ Plug 'mhinz/vim-startify'
 Plug 'itchyny/vim-cursorword'
 
 Plug 'alvan/vim-closetag'
+let g:closetag_filenames = '*.html,*.xhtml,*.phtml,*.vue,*.xml'
+
 " autocomplete brackets
 Plug 'Raimondi/delimitMate'
 
