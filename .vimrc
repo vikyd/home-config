@@ -4,6 +4,9 @@ set encoding=utf-8
 " no need vi
 set nocompatible
 
+set langmenu=en_US
+let $LANG = 'en_US'
+
 " equals backspace=indent,eol,start , :help 'backspace'
 set backspace=2
 
